@@ -2,8 +2,8 @@
 -
 -... rest of original .method
 -
--return... (forgot)
-- end method
+-    return... (forgot)
+-.end method
 +.method public getGameThrottlingLevel()I
 +    .registers 2
 +
