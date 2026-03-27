@@ -1,6 +1,3 @@
-    a/smali/com/android/server/ssrm/Feature.smali
-
-    invoke-static {}, Landroid/os/Debug;->semIsProductDev()Z
 
     sput-object v7, Lcom/android/server/ssrm/Feature;->SSRM_FILENAME:Ljava/lang/String;
 
